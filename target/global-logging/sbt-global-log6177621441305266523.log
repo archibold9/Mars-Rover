@@ -1,0 +1,10 @@
+[debug] > Exec(all {file:/C:/Users/hello/Desktop/Sturgeon_Rover/}sturgeon_rover/products {file:/C:/Users/hello/Desktop/Sturgeon_Rover/}sturgeon_rover/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\hello\Desktop\Sturgeon_Rover\target\scala-2.12\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[success] Total time: 1 s, completed 06-Jul-2021 22:19:47
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

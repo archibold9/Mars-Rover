@@ -1,0 +1,16 @@
+[debug] > Exec(build, None, None)
+[warn] build source files have changed
+[warn] new files: 
+[warn]   C:\Users\hello\Desktop\Sturgeon_Rover\project\project\plugins.sbt
+[warn] modified files: 
+[warn]   C:\Users\hello\Desktop\Sturgeon_Rover\build.sbt
+[warn] Apply these changes by running `reload`.
+[warn] Automatically reload the build when source changes are detected by setting `Global / onChangedBuildSource := ReloadOnSourceChanges`.
+[warn] Disable this warning by setting `Global / onChangedBuildSource := IgnoreSourceChanges`.
+[error] Not a valid command: build
+[error] Not a valid project ID: build
+[error] Expected ':'
+[error] Not a valid key: build (similar: loadedBuild, isMetaBuild)
+[error] build
+[error]      ^
+[debug] > Exec(idea-shell, None, None)
